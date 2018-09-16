@@ -1,1 +1,0 @@
-# Vehicle-routing-using-k-means-clustering-and-shortest-route-algorithm
