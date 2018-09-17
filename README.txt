@@ -1,4 +1,6 @@
 README File
+PROBLEM STATEMENT:
+Write a program that takes the attached list of kiosks and their coordinates as input and outputs routes for 2 delivery drivers that start and end at the kitchen located on Lake and Racine Ave (41.8851024,-87.6618988). These routes should be optimized for the shortest length. 
 
 1. ASSUMPTIONS:
 - Data is in the correct format as given in the input file with 4 columns
